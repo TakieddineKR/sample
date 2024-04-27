@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "243136108489",
+    "project_id": "sample-ea42c",
+    "storage_bucket": "sample-ea42c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243136108489:android:10580a92420854f2017a18",
+        "android_client_info": {
+          "package_name": "com.taki.sample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxKs8-qUix3NwyGcsgkSGOM2ZSeL9jCPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
